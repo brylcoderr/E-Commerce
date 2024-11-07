@@ -41,6 +41,10 @@ This is a modern, feature-rich e-commerce platform built using React, Vite, Node
 ### 7. Vite for Optimized Performance
    - Utilizes Vite for faster builds and hot reloading, leading to a more efficient development experience.
 
+
+![image](https://github.com/user-attachments/assets/e8edde12-e2a0-421f-970d-60e434e32d14)
+
+
 ## Installation
 
 ### Prerequisites
@@ -51,7 +55,7 @@ This is a modern, feature-rich e-commerce platform built using React, Vite, Node
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/e-commerce-platform.git
+   git clone https://github.com/your-username/e-commerce.git
    ```
 
 2. **Navigate to the project directory**:
